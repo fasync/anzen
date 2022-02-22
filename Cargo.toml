@@ -4,6 +4,10 @@ version = "1.0.0"
 authors = ["Florian Büstgens <florian.buestgens@efficient-dev.com>"]
 edition = "2021"
 readme = "README.md"
+license = "BSD2"
+categories = ["command-line-utilities"]
+repository = "https://github.com/fasync/passg"
+keywords = ["password", "generator", "cli", "passwort"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
