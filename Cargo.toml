@@ -1,13 +1,13 @@
 [package]
-name = "passg"
+name = "anzen"
 version = "1.0.0"
 authors = ["Florian Büstgens <florian.buestgens@efficient-dev.com>"]
-description = "passg is a minimal and simple password generator."
+description = "A minimal and simple password generator"
 edition = "2021"
 readme = "README.md"
 license = "BSD-2-Clause"
 categories = ["command-line-utilities"]
-repository = "https://github.com/fasync/passg"
+repository = "https://github.com/fasync/anzen"
 keywords = ["password", "generator", "cli", "random", "secure"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
