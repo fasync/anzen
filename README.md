@@ -1,12 +1,12 @@
-# passg
+# Anzen
 
-passg is a minimal and simple password generator.
+Anzen is a minimal and simple password generator.
 
 ## Usage
 ### Example
-```passg -cnsl 32``` \
-```passg -l 64``` \
-```passg -cnl 16```
+```anzen -cnsl 32``` \
+```anzen -l 64``` \
+```anzen -cnl 16```
 
 ### Required
 ```-l``` specify the length of the password
