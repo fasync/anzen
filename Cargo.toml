@@ -2,6 +2,7 @@
 name = "passg"
 version = "1.0.0"
 authors = ["Florian Büstgens <florian.buestgens@efficient-dev.com>"]
+description = "passg is a minimal and simple password generator."
 edition = "2021"
 readme = "README.md"
 license = "BSD-2-Clause"
