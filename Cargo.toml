@@ -8,7 +8,7 @@ readme = "README.md"
 license = "BSD-2-Clause"
 categories = ["command-line-utilities"]
 repository = "https://github.com/fasync/passg"
-keywords = ["password", "generator", "cli", "passwort", "random", "secure"]
+keywords = ["password", "generator", "cli", "random", "secure"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
